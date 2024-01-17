@@ -1,0 +1,5 @@
+In this assignment we have to practice basic git commands. 
+We are also going to deliberately create a conflict and will then try to resolve it.
+The repository is in my own personal github account. Name of the repository is Squarelings.
+^X
+
